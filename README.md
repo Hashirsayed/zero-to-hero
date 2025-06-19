@@ -14,7 +14,7 @@ My goal is to become a strong problem solver and developer — and this repo is 
 ☪️  Faith-driven, purpose-focused, and passionate about tech
 
 ---
-Tech stack I'm learning
+Tech stack I'm going to learn
 
 -Languages : **Python**, C(basic), HTML( just exploring ) 
 
